@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">VkTestCase2</string>
+    <string name="dialog_title">Предоставить доступ</string>
+    <string name="dialog_message">Для работы программы необходимо предоставить разрешение</string>
+    <string name="give_access">Предоставить</string>
+    <string name="dont_give_access">Не предоставлять</string>
+    <string name="sort">Sort</string>
+    <string name="sort_by">Sort By</string>
+    <string name="title">Title</string>
+    <string name="creation_date">Creation date</string>
+    <string name="size">Size</string>
+    <string name="extension">Extension</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
 </resources>
